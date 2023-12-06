@@ -7,7 +7,6 @@
 ![Alt Text](screenshot_3.png)
 ---
 ![Alt Text](screenshot_6.png)
-![Alt Text](screenshot_7.png)
 ![Alt Text](screenshot_8.png)
 ![Alt Text](screenshot_9.png)
 ![Alt Text](screenshot_10.png)
