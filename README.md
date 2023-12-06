@@ -1,7 +1,6 @@
 # Views Realty
 ## Making the perfect view your first person view!
 ---
-(python file in "APP_images") file...
 ![Alt Text](views_logo.jpg)
 ![Alt Text](screenshot_1.png)
 ![Alt Text](screenshot_2.png)
